@@ -2,7 +2,7 @@
 
 <img src="psyduck_avatar.png" width="150" style="border-radius:50%; border: 3px solid #00D4FF;" alt="avatar"/>
 
-# Hey there, I'm WATASHIII 👋
+# Hey there, I'm JERMAINE 👋
 
 ### Welcome to my corner of the internet.
 
