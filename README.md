@@ -174,9 +174,9 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jermaine-pasamba-2b9256355/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://watashiii5.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jerpasamba.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jermaine.pasamba@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/watashiii5)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jerpasamba)
 
 </div>
 
@@ -184,6 +184,6 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 <div align="center">
 
-**[WATASHIII](https://github.com/watashiii5)** — Crafting code that matters.
+**[WATASHIII](https://github.com/jerpasamba)** — Crafting code that matters.
 
 </div>
