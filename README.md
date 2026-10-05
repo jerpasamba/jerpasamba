@@ -9,12 +9,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=130&lines=CS+Grad+%F0%9F%8E%93;Building+efficient;%26+scalable+software.)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=watashiii5&label=Profile%20Views&color=0e75b6&style=flat" alt="watashiii5" />
+  <img src="https://komarev.com/ghpvc/?username=jerpasamba&label=Profile%20Views&color=0e75b6&style=flat" alt="jerpasamba" />
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=watashiii5&theme=black-ice&hide_border=true&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=A9A9A9" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=jerpasamba&theme=black-ice&hide_border=true&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=A9A9A9" alt="GitHub Streak" />
   </a>
 </p>
 
